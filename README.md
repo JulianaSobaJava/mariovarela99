@@ -42,7 +42,7 @@ Iam Mário Varela and Iam Web and Mobile Developper, I Usuall use NodeJs, ReactJ
 ```json
   {
     "status" : "200 🆗 🚀",
-    "message" : "Todos Os Dados Listados com Sucesso 🆗",
+    "message" : "Description 🆗",
     "data" : [
           {
               "Full Name  " : "Mário Teixeira Varela - 😎🤙",
@@ -60,18 +60,6 @@ Iam Mário Varela and Iam Web and Mobile Developper, I Usuall use NodeJs, ReactJ
 
               "location" : "Luanda Angola, Sambizanga - São Paulo",
 
-              "languages" : [
-                    "Javascript 👌", 
-                    "ReactJS 💢", 
-                    "ReactNative 💥", 
-                    "MySql 💦", 
-                    "C 💤", 
-                    "HTML 💨", 
-                    "CSS 💫", 
-                    "NodeJS 🕳", 
-                    "..."
-                  ],
-
               "AllRight" : "Yes. Of Course.",
 
               "message" : "I am Web Programmer, 
@@ -83,6 +71,21 @@ Iam Mário Varela and Iam Web and Mobile Developper, I Usuall use NodeJs, ReactJ
             }
          ]
   }
+ ```
+ 
+ ```javascript
+   const languages = [
+                  "Javascript 👌", 
+                  "ReactJS 💢", 
+                  "ReactNative 💥", 
+                  "MySql 💦", 
+                  "C 💤", 
+                  "HTML 💨", 
+                  "CSS 💫", 
+                  "NodeJS 🕳", 
+                  "..."
+                ],
+
  ```
 
 
