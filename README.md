@@ -42,7 +42,7 @@ Iam Mário Varela and Iam Web and Mobile Developper, I Usuall use NodeJs, ReactJ
 <h2 align="center">Displays Stats</h2>
 <a align="center" href="https://arshiamidos.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariovarela99&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariovarela99&layout=compact&theme=white" alt="languages" height="170">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariovarela99&layout=compact&theme=white" alt="languages" height="170">
     </p>
 </a>
 
