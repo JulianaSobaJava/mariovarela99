@@ -16,7 +16,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mariovarela99-050342?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/)](https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/) 
 [![Gmail Badge](https://img.shields.io/badge/-marioteixeiravarela@gmail.com-050342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioteixeiravarela@gmail.com)](mailto:marioteixeiravarela@gmail.com)
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mariovarela99&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mariovarela99&show_icons=true" />
 </div>
 
 <p align="center">
